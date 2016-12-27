@@ -1,1 +1,2 @@
 # MultiplyTablesAssembly
+An assembly program that multiplies two tables (arrays) of numbers together and puts them in a third table. All numbers are in the 2's complement. For the 68HC11 microcontroller. Use the WOOKIE assembly (yep, just like the Star Wars species) to assemble the program and run it. This assignment dealt with tables in assembly, as well as transparency, and using the stack / passing value with it. 
